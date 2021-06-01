@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Takeattendence" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/Takeattendence.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="184" x="21" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Teacher1" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/Teacher1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="184" x="245" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Attendanceproj" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/Attendanceproj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="132" x="469" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Addteacher" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/Addteacher.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="304" width="154" x="641" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Entryportal" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/Entryportal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="340" width="273" x="835" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Report" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/Report.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="184" x="1148" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Addstudent" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/Addstudent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="273" x="1372" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="admin" project="Final_Java(U4CSE17238)" 
+    file="/Final_Java(U4CSE17238)/src/admin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="273" x="1685" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
